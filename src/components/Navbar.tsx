@@ -36,10 +36,11 @@ function Navbar() {
       <ul className="list-none space-x-3 ">
         {links.map(({ link, name }, idx) => {
           return (
-            <li className="float-left cursor-pointer" data-link={link}>
-              <Link to={link} key={idx}>
-                {name}
-              </Link>
+            <li
+              key={idx}
+              className="float-left cursor-pointer"
+              data-link={link}>
+              <Link to={link}>{name}</Link>
             </li>
           );
         })}
