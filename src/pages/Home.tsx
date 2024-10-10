@@ -70,9 +70,6 @@ function Home() {
             </div>
           </div>
         </ContentBlock>
-        <ContentBlock className="">
-          <p>Pendidn</p>
-        </ContentBlock>
       </div>
     </>
   );
