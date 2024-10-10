@@ -7,7 +7,7 @@ import iphoneMockup from "../assets/Iphone app.png";
 function Home() {
   return (
     <>
-      <div className="w-full h-auto bg-gradient-to-b from-white from-20% to-green-600">
+      <div className="w-full h-auto ">
         <ContentBlock className="flex items-center">
           <div className="w-1/2  h-full flex  text-center flex-col justify-center">
             <h1 className="font-bold">
