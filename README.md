@@ -1,30 +1,91 @@
-# React + TypeScript + Vite
+# EvalText Single page (React + React Router + Tailwind+TypeScript)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina de EvalText App prototipo para una startup con landing page.
 
-Currently, two official plugins are available:
+basado en diseño en figma [Link](https://www.figma.com/design/KT6anh2UbBRvJNakNNG6Yi/Prototype-EvalText?node-id=0-1&t=Y0J08nTb3Zx0E5lK-1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Servicio desplegado en la siguiente Url:
 
-## Expanding the ESLint configuration
+## Tabla de Contenidos
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [Library Versions](#setup)
+- [Setup](#setup)
+- [Instalación](#instalación)
 
-- Configure the top-level `parserOptions` property like this:
+## Library Versions
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+- **React**: `^18.3.1`
+- **TypeScript**: `5.2.2`
+- **React Router Dom**: `^6.26.2`
+- **TailwindCss**: `^5.2.2`
+- **Vite**: `^5.3.1`
+
+## Setup
+
+Para Instalar:
+
+```bash
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Development Server
+
+Start the development server on `http://localhost:5137`:
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm run dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
