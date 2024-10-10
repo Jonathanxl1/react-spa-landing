@@ -1,0 +1,28 @@
+{
+  "team": [
+    {
+      "role": "Diseñador Ux/UI",
+      "name": "Arturo Mendez",
+      "resume": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit justo non mollis feugiat. Donec a viverra est. Cras commodo iaculis urna volutpat sagittis. Nulla ornare lacus felis, eget elementum urna rutrum ut. Integer dolor risus, facilisis ut imperdiet sit amet, rutrum ut magna. Integer eget efficitur sem. Phasellus id erat quis est hendrerit fringilla. Donec purus sem, pellentesque nec nunc ut, elementum egestas diam. Nullam placerat vitae turpis in laoreet. Vestibulum ultrices velit sollicitudin hendrerit tempor. Pellentesque ultrices at nibh vitae imperdiet. Praesent id felis eu nisi aliquam convallis. Etiam gravida auctor libero et consectetur. Mauris eu ultricies arcu.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit justo non mollis feugiat. Donec a viverra est. Cras commodo iaculis urna volutpat sagittis. Nulla ornare lacus felis, eget elementum urna rutrum ut. Integer dolor risus, facilisis ut imperdiet sit amet, rutrum ut magna. Integer eget efficitur sem. Phasellus id erat quis est hendrerit fringilla. Donec purus sem, pellentesque nec nunc ut, elementum egestas diam. Nullam placerat vitae turpis in laoreet. Vestibulum ultrices velit sollicitudin hendrerit tempor. Pellentesque ultrices at nibh vitae imperdiet. Praesent id felis eu nisi aliquam convallis. Etiam gravida auctor libero et consectetur. Mauris eu ultricies arcu.",
+      "url_photo": "10"
+    },
+    {
+      "role": "Profesor Ingenieria de Sistemas",
+      "name": "Jose Azcarate",
+      "resume": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit justo non mollis feugiat. Donec a viverra est. Cras commodo iaculis urna volutpat sagittis. Nulla ornare lacus felis, eget elementum urna rutrum ut. Integer dolor risus, facilisis ut imperdiet sit amet, rutrum ut magna. Integer eget efficitur sem. Phasellus id erat quis est hendrerit fringilla. Donec purus sem, pellentesque nec nunc ut, elementum egestas diam. Nullam placerat vitae turpis in laoreet. Vestibulum ultrices velit sollicitudin hendrerit tempor. Pellentesque ultrices at nibh vitae imperdiet. Praesent id felis eu nisi aliquam convallis. Etiam gravida auctor libero et consectetur. Mauris eu ultricies arcu.",
+      "url_photo": "16"
+    },
+    {
+      "role": "Desarrollador Movil",
+      "name": "Miguel Duran",
+      "resume": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit justo non mollis feugiat. Donec a viverra est. Cras commodo iaculis urna volutpat sagittis. Nulla ornare lacus felis, eget elementum urna rutrum ut. Integer dolor risus, facilisis ut imperdiet sit amet, rutrum ut magna. Integer eget efficitur sem. Phasellus id erat quis est hendrerit fringilla. Donec purus sem, pellentesque nec nunc ut, elementum egestas diam. Nullam placerat vitae turpis in laoreet. Vestibulum ultrices velit sollicitudin hendrerit tempor. Pellentesque ultrices at nibh vitae imperdiet. Praesent id felis eu nisi aliquam convallis. Etiam gravida auctor libero et consectetur. Mauris eu ultricies arcu.",
+      "url_photo": "19"
+    },
+    {
+      "role": "CEO",
+      "name": "Natalia Mora",
+      "resume": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce blandit justo non mollis feugiat. Donec a viverra est. Cras commodo iaculis urna volutpat sagittis. Nulla ornare lacus felis, eget elementum urna rutrum ut. Integer dolor risus, facilisis ut imperdiet sit amet, rutrum ut magna. Integer eget efficitur sem. Phasellus id erat quis est hendrerit fringilla. Donec purus sem, pellentesque nec nunc ut, elementum egestas diam. Nullam placerat vitae turpis in laoreet. Vestibulum ultrices velit sollicitudin hendrerit tempor. Pellentesque ultrices at nibh vitae imperdiet. Praesent id felis eu nisi aliquam convallis. Etiam gravida auctor libero et consectetur. Mauris eu ultricies arcu.",
+      "url_photo": "26"
+    }
+  ]
+}
